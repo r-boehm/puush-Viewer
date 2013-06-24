@@ -8,11 +8,17 @@ Controls
 --------
 
 Keyboard
+
 -W/UP    = Copy link.
+
 -A/LEFT  = Go to your last picture.
+
 -S/RIGHT = Get a new one.
+
 -D/DOWN  = Save image.
 
 Mouse
+
 -Left    = Copy link.
+
 -Right   = Save image.

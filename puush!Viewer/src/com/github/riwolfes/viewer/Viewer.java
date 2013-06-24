@@ -106,7 +106,7 @@ public class Viewer extends Canvas{
 	    frame.add(label);
 	    frame.setVisible(true);
 	    frame.setTitle("by Riwolfes");
-	    frame.setIconImage(Toolkit.getDefaultToolkit().getImage("res//logo.png"));
+	    frame.setIconImage(Toolkit.getDefaultToolkit().getImage("logo.png"));
 	    frame.requestFocus();
 	    frame.addComponentListener(new ComponentListener() {
 
